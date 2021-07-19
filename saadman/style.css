@@ -1,0 +1,93 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color: #f8f9fa;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+/* Navigation */
+.navbar{
+    background-color: rgb(43, 28, 177);
+    box-shadow: 10px 10px 10px #ccc;
+}
+.navbar-brand{
+    color: #fff!important;
+}
+.nav-link{
+    color:#fff!important;
+}
+.nav-link:hover{
+    color:rgb(34, 37, 187)!important;
+    border: 2px solid #fff;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.active{
+    color:rgb(33, 199, 199)!important;
+}
+.nav-item{
+    padding-left:20px;
+}
+.navbar-brand img{
+    height: 50px;
+    width: 50px;
+}
+
+/* Options */
+
+.main{
+    margin-bottom:200px;
+}
+
+.title{
+    margin:50px auto;
+}
+.title h1,p{
+    text-align:center;
+}
+.title h1{
+    color: blueviolet;
+}
+.options{
+    width:850px ;
+    margin: 0 auto;
+} 
+
+.card-link:hover{
+    color: #fff;
+}
+.card{
+    padding:20px;
+    margin:5px auto;
+    width: 250px;
+    height: 300px;
+    background-color: rgb(144, 155, 218);
+}
+
+
+.card:hover{
+    border:5px solid rgb(28, 55, 209);
+    background-color: rgb(88, 102, 182);
+}
+
+
+.mypic{
+    background-color: rgb(192, 204, 211);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin:10px 0px;
+}
+.mypic img{
+    height: 100px;
+    width: 100px;
+}
+.next-btn{
+    margin:10px 0px;
+}
+
