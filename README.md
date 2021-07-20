@@ -40,7 +40,7 @@ find the 'example' card first and copy the card, it will look like this
               </div>
 
         <!-- Card body end, copy ends here--> 
-        ```
+ ```       
 Paste your card below the example card
 
 
